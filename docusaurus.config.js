@@ -87,7 +87,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Checkyoself Docs Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Check Yo Self Docs, Built with Docusaurus.`,
     },
   },
   presets: [
