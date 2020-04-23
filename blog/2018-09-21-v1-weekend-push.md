@@ -2,7 +2,7 @@
 title: Pushing for a Monday v1 Release
 author: Tiffany White
 authorURL: http://twitter.com/tiffanywhitedev
-authorImageURL: https://res.cloudinary.com/twhiteblog/image/upload/v1536475999/Profile%20Photos/profile3.png
+authorImageURL: https://res.cloudinary.com/twhiteblog/image/upload/v1578436739/twhiteblog-avi.png
 ---
 
 # Updates on Progress
