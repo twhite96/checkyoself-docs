@@ -15,8 +15,12 @@
     "@docusaurus/theme-live-codeblock": "^2.0.0-alpha.39",
     "@docusaurus/theme-search-algolia": "^2.0.0-alpha.32",
     "classnames": "^2.2.6",
+    "date-fns": "^2.12.0",
+    "fs": "^0.0.1-security",
     "react": "^16.8.4",
-    "react-dom": "^16.8.4"
+    "react-dom": "^16.8.4",
+    "slug": "^2.1.1",
+    "slugify": "^1.4.0"
   },
   "browserslist": {
     "production": [

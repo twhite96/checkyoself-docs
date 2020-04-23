@@ -11,7 +11,7 @@ module.exports = {
       theme: require('prism-react-renderer/themes/shadesOfPurple'),
     },
     navbar: {
-      title: 'Check Yo Self Docs',
+      title: 'Check Yo Self',
       logo: {
         alt: 'Check Yo Self Docs Logo',
         src: 'img/logo.png',
@@ -53,15 +53,19 @@ module.exports = {
           ],
         },
         {
-          title: 'Community',
+          title: 'Elsewhere',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              label: 'LinkedIn',
+              href: 'https://linkedin.com/in/tiffanyrwhite',
             },
             {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              label: 'Resume',
+              href: 'https://resume.tiffanyrwhite.com',
+            },
+            {
+              label: 'Portfolio',
+              href: 'https://www.tiffanyrwhite.com',
             },
           ],
         },
@@ -83,7 +87,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Checkyoself Docs Built with Docusaurus.`,
     },
   },
   presets: [

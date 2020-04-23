@@ -8,32 +8,30 @@ import styles from './styles.module.css';
 
 const features = [
   {
-    title: <>Easy to Use</>,
-    imageUrl: 'img/undraw_docusaurus_mountain.svg',
+    title: <>Easy to Use Editor</>,
+    imageUrl: 'img/editor.svg',
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Check Yo Self is designed to be easy to use so you can get up and running with checking your posts.
       </>
     ),
   },
   {
-    title: <>Focus on What Matters</>,
-    imageUrl: 'img/undraw_docusaurus_tree.svg',
+    title: <>Store Your Texts in the Cloud</>,
+    imageUrl: 'img/database.svg',
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+       Easily store your posts in the cloud to pick up where you left off, powered by Firebase.<br />
+       <i><b>Coming soon.</b></i>
       </>
     ),
   },
   {
     title: <>Powered by React</>,
-    imageUrl: 'img/undraw_docusaurus_react.svg',
+    imageUrl: 'img/react.svg',
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        We all love React. I'm no different. This app is a labor of love, to show my love, for React.
       </>
     ),
   },
@@ -59,7 +57,7 @@ function Home() {
   const {siteConfig = {}} = context;
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
+      title={`${siteConfig.title}`}
       description="Description will go into a meta tag in <head />">
       <header className={classnames('hero hero--primary', styles.heroBanner)}>
         <div className="container">
