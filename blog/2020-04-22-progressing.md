@@ -15,7 +15,7 @@ This is the correct pattern. The `render prop` pattern will allow me to render t
 
 My thinking was as such:
 
-![](/static/img/component_tree.svg)
+![](/img/component_tree.svg)
 
 What I didn't realize was that *a pattern existed specifically for this*. I also didn't know *how* this pattern worked.
 
