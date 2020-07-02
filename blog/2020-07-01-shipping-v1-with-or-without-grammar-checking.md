@@ -15,7 +15,7 @@ I am a really big fan of [Thomas Frank](https://instagram.com/tomfrankly). I've 
 
 This evening I sat down to catch up on his latest and the latest happened to be about finishing projects you start. While watching it, I began to realize, especially with this project, where I have gone wrong, why I haven't shipped anything, and what I plan on doing about it.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Ai8Irb7L_JM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="380" src="https://www.youtube-nocookie.com/embed/Ai8Irb7L_JM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Starting too big without the necessary skills
 
