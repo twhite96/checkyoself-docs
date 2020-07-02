@@ -1,7 +1,7 @@
 module.exports = {
   title: 'Check Yo Self Docs',
   tagline: 'An app to check the grammar and spelling of your markdown blog posts.',
-  url: 'https://checkyoself-docs.tiffstuff.dev',
+  url: 'https://docs.check-yoself.app',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
   organizationName: 'twhite96', // Usually your GitHub org/user name.
